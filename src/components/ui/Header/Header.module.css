@@ -1,0 +1,24 @@
+
+
+.containerHeader{
+    width: 100vw;
+    height: 8vh;
+    background-color: #5499c7 ;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.containerTitleHeader{
+    margin-left: 4vw;
+    color: #FFFFFF;
+
+}
+
+.containerTitleHeader h2{
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    gap: 0.4rem;
+}
